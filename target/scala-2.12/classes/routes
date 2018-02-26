@@ -1,2 +1,0 @@
-GET	/quotes		controllers.QuotesController.fetch
-POST	/quotes		controllers.QuotesController.add
