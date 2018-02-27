@@ -1,5 +1,4 @@
 build
-logs
 target
 /.idea
 /.idea_modules
@@ -11,4 +10,5 @@ target
 
 /.vscode
 *.db
-
+*.class
+*.log
